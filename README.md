@@ -60,3 +60,7 @@ This work dates back to my **Level 2, Term 2** undergraduate coursework at BUET.
 
 `Polynomial_Fitting_Plotting.m` — Complete MATLAB program for polynomial fitting and curve plotting.
 
+## Author
+
+**Md Shahriar Parvez**
+BSc in Mechanical Engineering, Bangladesh University of Engineering and Technology (BUET)
